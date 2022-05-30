@@ -42,7 +42,7 @@ Communication (ICEIC), Barcelona, Spain, 2020, pp. 1-3, doi: https://doi.org/10.
 human brain," 2018 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia), Jeju,
 2018, pp. 206-212, doi: https://doi.org/10.1109/ICCE-ASIA.2018.8552151.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -62,7 +62,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
 ### Resume
 The resume can be downloaded from [here](https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/Mobeen_CV.pdf).
