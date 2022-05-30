@@ -63,7 +63,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Resume
-
+The resume can be downloaded from [here].(https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/Mobeen_CV.pdf)
 
 
 ### Contact
