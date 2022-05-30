@@ -1,10 +1,12 @@
 ## Ahmad Mobeen
 
 Welcome to my page.
+
 ### Career Interests
 - Image-to-Image translation, Image Super-Resolution, Denoising
 - Neural Architecture Search, AtuoML
 - Object Detection, Video Analysis, Small-object detection
+
 ### Patents
 - CycleGAN 및 IoU 손실을 활용한 이미지 생성 방법 및 장치 (Image Generation Method and
 Apparatus Using CycleGAN and IoU loss)- (pending)
@@ -63,7 +65,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Resume
-The resume can be downloaded from [here].(https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/Mobeen_CV.pdf)
+The resume can be downloaded from [here](https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/Mobeen_CV.pdf).
 
 
 ### Contact
