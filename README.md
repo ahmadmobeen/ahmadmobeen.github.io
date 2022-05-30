@@ -1,8 +1,18 @@
 ## Ahmad Mobeen
 
 Welcome to my page.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Career Interests
+- Image-to-Image translation, Image Super-Resolution, Denoising
+- Neural Architecture Search, AtuoML
+- Object Detection, Video Analysis, Small-object detection
+### Patents
+- CycleGAN 및 IoU 손실을 활용한 이미지 생성 방법 및 장치 (Image Generation Method and
+Apparatus Using CycleGAN and IoU loss)- (pending)
+- 단계적 전이 학습 기반 합성곱 신경망을 활용한 분류 방법 및 장치 (Classification Method and
+Apparatus Using CNN with Stepwise Transfer Learning) – (pending)
+- 까마귀 탐색 알고리즘에 기반한 인공 신경망 구조의 자동 설계 방법 및 장치 (출원 예정)
+{METHOD AND APPARATUS FOR AUTOMATIC DESIGN OF ARTIFICIAL NEURAL NETWORK
+STRUCTURE BASED ON CROW SEARCH ALGORITHM} - 10-2020-0135247
 
 ### Selected Publications
 - M. Ahmad, U. Cheema, M. Abdullah, S. Moon, and D. Han, “Generating Synthetic Disguise Face
