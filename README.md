@@ -12,6 +12,13 @@ Welcome to my page.
 Binary Crow Search Algorithm (BCSA) is inspired by the original Crow Search Algorithm (CSA). However, CSA is not compatible to be used for NAS. CSA deals with continuous numbers for calculation of distance between the targets and the agents whereas in NAS we cannot differentiate between several neural network architectures using a continuous number. Therefore, a Binary Encoding Scheme is integrated with CSA, hence named Binary CSA.
 The binary encoding scheme is as follows:
 ![Binary Encoding Scheme for 2 stage architectures](https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/figure%204(a)%20schematic%20of%202%20stage%20binary%20encoding%20scheme.svg)
+
+### Stepwise Transfer Learning
+### Synthetic Disguise Face Generation
+### Small-Object Detection
+### Video Quality Enchancement
+### Satellite Image Denoising
+
 ## Patents
 - CycleGAN 및 IoU 손실을 활용한 이미지 생성 방법 및 장치 (Image Generation Method and
 Apparatus Using CycleGAN and IoU loss)- (pending)
