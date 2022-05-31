@@ -14,7 +14,7 @@ The binary encoding scheme is as follows:
 ![Binary Encoding Scheme for 2 stage architectures](https://github.com/ahmadmobeen/ahmadmobeen.github.io/blob/main/figure%204(a)%20schematic%20of%202%20stage%20binary%20encoding%20scheme.svg)
 
 ### Stepwise Transfer Learning
-### [Synthetic Disguise Face Generation](Synthetic Disguise Face Generation)
+### [Synthetic Disguise Face Generation](https://ahmadmobeen.github.io/SyntheticDisguiseFaceDatabase/)
 ### Small-Object Detection
 ### Video Quality Enchancement
 ### Satellite Image Denoising
